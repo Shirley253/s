@@ -1,0 +1,17 @@
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+#sandcastle1-showing{
+  display: none;
+}
+#sandcastle2-showing{
+  display: none;
+}
+#sandcastle3-showing{
+  display: none;
+}
